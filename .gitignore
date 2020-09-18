@@ -8,8 +8,4 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
 
